@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Port/static/css/main.d2b39b2e.css",
+    "main.js": "/Port/static/js/main.f84d0370.js",
+    "static/js/787.bbd0f1b9.chunk.js": "/Port/static/js/787.bbd0f1b9.chunk.js",
+    "static/media/Nehad_Shretah_Light.jpg": "/Port/static/media/Nehad_Shretah_Light.d0f3e5d14ecb34623173.jpg",
+    "static/media/Nehad_Shretah_Dark.jpg": "/Port/static/media/Nehad_Shretah_Dark.2afc4ae276c471150f2e.jpg",
+    "index.html": "/Port/index.html",
+    "main.d2b39b2e.css.map": "/Port/static/css/main.d2b39b2e.css.map",
+    "main.f84d0370.js.map": "/Port/static/js/main.f84d0370.js.map",
+    "787.bbd0f1b9.chunk.js.map": "/Port/static/js/787.bbd0f1b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b39b2e.css",
+    "static/js/main.f84d0370.js"
+  ]
+}
